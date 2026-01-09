@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🎨 Desenvolvedor Frontend • 💼 Sistemas Corporativos • ⚙️ SAP
+   Desenvolvedor Frontend •  Sistemas Corporativos •  SAP
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 Sou estudante de desenvolvimento de software em transição de carreira para tecnologia.  
 Atuei por mais de **5 anos em vendas** e **1 ano como gerente**, desenvolvendo forte visão de negócio, processos e experiência do usuário.
@@ -22,7 +22,7 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
 
 ---
 
-## ⚙️ Tecnologias
+##  Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,linux,vscode" />
@@ -42,7 +42,7 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
 
 ---
 
-## 🏭 Interesse em ambientes corporativos 
+##  Interesse em ambientes corporativos 
 
 - Frontend para sistemas internos  
 - SAP ERP (visão funcional + interface)  
@@ -53,7 +53,7 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
 
 ---
 
-## 📚 Em aprendizado
+##  Em aprendizado
 
 - React avançado  
 - UX aplicado a sistemas corporativos  
@@ -63,7 +63,7 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
 
 ---
 
-## 📌 Perfil Profissional
+##  Perfil Profissional
 
 - Foco em Frontend corporativo e sistemas internos  
 - Experiência prévia em ambientes de negócio e gestão  
@@ -73,7 +73,7 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
 
 ---
 
-## 🌐 Contato
+##  Contato
 
 <p align="left">
   <a href="https://github.com/ViniciosMarques">
