@@ -79,7 +79,7 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
   <a href="https://github.com/ViniciosMarques">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
   </a>
-  <a href="COLE_SEU_LINK_LINKEDIN">
+  <a href="https://www.linkedin.com/in/vinicioslmarques/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
