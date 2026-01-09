@@ -38,7 +38,7 @@ Hoje quero aplicar esse background no **Frontend corporativo**, com interesse em
 
 ---
 
-⚙️ Tecnologias
+ ⚙️ Tecnologias
 
 <p align="center">
 
@@ -47,16 +47,17 @@ Hoje quero aplicar esse background no **Frontend corporativo**, com interesse em
 <br/><br/>
 
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI5-0FAAFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/APIs%20REST-1f6feb?style=for-the-badge"/>
 
 </p>
+
 
 ---
 
