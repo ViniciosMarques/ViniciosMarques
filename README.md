@@ -18,7 +18,7 @@
 Sou estudante de desenvolvimento de software em transição de carreira para tecnologia.  
 Atuei por mais de **5 anos em vendas** e **1 ano como gerente**, desenvolvendo forte visão de negócio, processos e experiência do usuário.
 
-Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empresariais, dashboards e portais internos**, comuns em grandes empresas industriais como a **Klabin**.
+Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empresariais, dashboards e portais internos**, comuns em grandes empresas.
 
 ---
 
