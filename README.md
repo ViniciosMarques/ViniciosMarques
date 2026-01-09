@@ -65,7 +65,7 @@ Hoje estou focado em construir uma carreira sólida em tecnologia, com interesse
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="COLE_SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/vinicioslmarques/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
