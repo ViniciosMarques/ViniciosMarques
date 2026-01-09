@@ -66,8 +66,14 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ViniciosMarques&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosMarques&layout=compact&theme=github_dark&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=viniciosmarques&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosmarques&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
+    height="160"
+  />
 </p>
 
 ---
