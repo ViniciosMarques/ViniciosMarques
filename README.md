@@ -42,7 +42,7 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
 
 ---
 
-## 🏭 Interesse em ambientes corporativos (ex: Klabin)
+## 🏭 Interesse em ambientes corporativos 
 
 - Frontend para sistemas internos  
 - SAP ERP (visão funcional + interface)  
@@ -63,9 +63,13 @@ Hoje meu foco é **Frontend corporativo**, com interesse em **SAP, sistemas empr
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Perfil Profissional
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciosmarques&theme=github-dark&hide_border=true"/>
+- Foco em Frontend corporativo e sistemas internos  
+- Experiência prévia em ambientes de negócio e gestão  
+- Interesse em SAP, ERP e soluções empresariais  
+- Desenvolvimento orientado a processos, usabilidade e performance
+- Aprendizagem rápida
 
 ---
 
